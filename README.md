@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Header](https://capsule-render.vercel.app/api?text=Madhav%20Paudel&fontColor=ffffff&fontSize=40&fontAlign=48&height=250&section=head&color=gradient&type=rect)
+
+![](https://github-readme-stats.vercel.app/api?username=poudelmadhav&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=poudelmadhav&layout=compact&theme=radical)
 -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=poudelmadhav)
