@@ -1,24 +1,42 @@
-### Hi there 👋
-
-<!--
-**poudelmadhav/poudelmadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Header](https://capsule-render.vercel.app/api?text=Madhav%20Paudel&fontColor=ffffff&fontSize=40&fontAlign=48&height=250&section=head&color=gradient&type=rect)
-
-![](https://github-readme-stats.vercel.app/api?username=poudelmadhav&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poudelmadhav&layout=compact&theme=radical)
--->
+# 👋 Hi, I'm Madhav Poudel
 
 ![Profile Views](https://komarev.com/ghpvc/?username=poudelmadhav)
+
+## 🚀 Principal Engineer @ Chulo Solutions Pvt. Ltd.
+
+I'm an IT Enthusiast and passionate technologist specializing in building robust web applications and engineering elegant solutions. With years of experience as a Principal Engineer, I enjoy crafting scalable products, mentoring teams, and streamlining development workflows.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages & Frameworks:**  
+  ![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?logo=rubyonrails&logoColor=white)
+
+- **Tools & Platforms:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+
+- **Expertise:**  
+  Web Development, Project Management, Agile Workflows
+
+---
+
+### 🌐 Find Me Online
+
+- 🌍 [Website](https://poudelmadhav.com.np/)
+- 🐦 [Twitter](http://twitter.com/poudelmadhav143)
+- 💼 [LinkedIn](https://www.linkedin.com/in/poudelmadhav143)
+
+---
+
+### 💡 About Me
+
+- 🚀 Principal Engineer at [Chulo Solutions Pvt. Ltd.](https://chulosolutions.com/)
+- 👨‍💻 IT Enthusiast who loves exploring and implementing new technologies
+- 🤝 Always open to collaborating on exciting projects and sharing knowledge with the community
+
+---
+
+<!--
+**poudelmadhav/poudelmadhav** is a ✨ special ✨ repository — its `README.md` appears on your GitHub profile!
+-->
