@@ -31,7 +31,7 @@ I'm an IT Enthusiast and passionate technologist specializing in building robust
 
 ### 💡 About Me
 
-- 🚀 Principal Engineer at [Chulo Solutions Pvt. Ltd.](https://chulosolutions.com/)
+- 🚀 Principal Engineer at [Chulo Solutions Pvt. Ltd.](https://chulo-solutions.com/)
 - 👨‍💻 IT Enthusiast who loves exploring and implementing new technologies
 - 🤝 Always open to collaborating on exciting projects and sharing knowledge with the community
 
